@@ -1,0 +1,16 @@
+# Ignore build folders
+cmake-build-debug/
+.idea/
+
+# Ignore temporary files (e.g., IDE files)
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
